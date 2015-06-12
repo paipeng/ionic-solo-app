@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.ionicsoloapp837279" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>ionic-solo-app</name>
+<widget id="com.paipeng.solo" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>Project One</name>
   <description>
-        An Ionic Framework and Cordova project.
+        An app for Solo project management tool.
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+  <author email="sipaipv6@gmail.com" href="http://paipeng.com/">
+      Pai Peng
     </author>
   <content src="index.html"/>
   <access origin="*"/>
